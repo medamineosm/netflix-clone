@@ -1,4 +1,4 @@
-# Netflix-Clone Using ReactJs and FireBase [Live Demo](https://netflix-clone-d201e.web.app/
+# Netflix-Clone Using ReactJs and FireBase [Live Demo](https://netflix-clone-d201e.web.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
